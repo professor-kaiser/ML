@@ -5,5 +5,5 @@ $$
 
 # Gain
 $$
-Gain = Gini_{parent} - (fract{n_{L}}{n} Gini_{L} + fract{n_{R}}{n} Gini_{R})
+Gain = Gini_{parent} - \left( \fract{n_{L}}{n} Gini_{L} + \fract{n_{R}}{n} Gini_{R} \right)
 $$
