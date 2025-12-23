@@ -1,0 +1,14 @@
+/home/professor/dotnet/ML/bin/Debug/net9.0/ML
+/home/professor/dotnet/ML/bin/Debug/net9.0/ML.deps.json
+/home/professor/dotnet/ML/bin/Debug/net9.0/ML.runtimeconfig.json
+/home/professor/dotnet/ML/bin/Debug/net9.0/ML.dll
+/home/professor/dotnet/ML/bin/Debug/net9.0/ML.pdb
+/home/professor/dotnet/ML/obj/Debug/net9.0/ML.GeneratedMSBuildEditorConfig.editorconfig
+/home/professor/dotnet/ML/obj/Debug/net9.0/ML.AssemblyInfoInputs.cache
+/home/professor/dotnet/ML/obj/Debug/net9.0/ML.AssemblyInfo.cs
+/home/professor/dotnet/ML/obj/Debug/net9.0/ML.csproj.CoreCompileInputs.cache
+/home/professor/dotnet/ML/obj/Debug/net9.0/ML.dll
+/home/professor/dotnet/ML/obj/Debug/net9.0/refint/ML.dll
+/home/professor/dotnet/ML/obj/Debug/net9.0/ML.pdb
+/home/professor/dotnet/ML/obj/Debug/net9.0/ML.genruntimeconfig.cache
+/home/professor/dotnet/ML/obj/Debug/net9.0/ref/ML.dll
